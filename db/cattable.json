@@ -1,0 +1,29 @@
+[
+    {
+        "id": "BkPPSFikX",
+        "name": "Milo",
+        "breed": "Bengal",
+        "sex": "male",
+        "dob": "2018-04-20",
+        "price": "20000"
+
+    },
+    {
+        "id": "rynNHto1Q",
+        "name": "Otis",
+        "breed": "Persian",
+        "sex": "female",
+        "dob": "2018-05-08",
+        "price": "10000"
+
+    },
+    {
+        "id": "Hkm4HYoym",
+        "name": "Milo",
+        "breed": "Bengal",
+        "sex": "male",
+        "dob": "2018-04-20",
+        "price": "20000"
+
+    }
+]

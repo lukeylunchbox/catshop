@@ -1,0 +1,11 @@
+###
+POST http://localhost:3000/cats 
+Content-Type: application/json
+
+{
+    "name" : "sebastian",
+    "price": "10000",
+    "breed": "Ragdoll",
+    "sex": "male",
+    "dob": "2017-12-01"  
+}
